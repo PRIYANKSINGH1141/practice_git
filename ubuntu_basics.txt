@@ -1,0 +1,15 @@
+1. check git version (git --version)
+2. make a directory  (mkdir practice_get)
+3. check directory   (ls)
+4. go to that directory (cd practice_get)
+5. Create file in that directory (touch basic_command.txt)
+6. Edit a file (nano basic_command.txt)
+7. After edit a file
+8. initialize git into directory (git intit)
+9. Check git status for untracked file (git status)
+10.Track the file (git add basic_command.txt)    it is in staging area
+11.After that commit the file (git commit -m "update the file content")
+12.Error occur for configuration ID,Password from github can't access ,now a github update & use 
+   PAT(personalize access token) ,so we go to github setting >developer>personalize access token-classic
+   after succesful creating PAT then ,edit set-url - add PAT in set-url 
+13. push to github (git push origin master
