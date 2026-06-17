@@ -1,0 +1,18 @@
+1. pwd      -show current directory
+2. ls       -list file and folders
+3. ls -la   - show all files(include hidden)
+4. cd       - change directory
+5. cd ..    - go one level up
+6. cd ~     - go to home directory
+7. mkdir    -create a directory
+8. rmdir    -remove a directory
+9. touch    -create a file
+10. cat     -display file content
+11. nano    -edit a file
+12. cp      -copy file and folder
+13. mv      -move or rename file
+14. rm -r   -delete a directory
+15. rm -rf  -force delete a directory
+16. clear   -clear terminal screen
+17. history -show command history
+
